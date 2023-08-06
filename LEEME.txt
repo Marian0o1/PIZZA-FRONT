@@ -1,0 +1,9 @@
+Proyecto web básico con temática de "Pizza" realizada únicamente con HTML y CSS. 
+-Fue adaptada para versión tablet y escritorio.
+Este trabajo puede estar sujeto a posibles modificaciones a futuro.
+
+Mariano Sosa.-
+
+Redes sociales:
+Instagram: https://www.instagram.com/agustin.soosa/
+Facebook: https://www.facebook.com/Agustin.soosa
